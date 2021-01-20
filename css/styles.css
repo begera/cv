@@ -1,0 +1,46 @@
+body{
+  background-color: #111d5e;
+}
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 30%;
+}
+h1{
+  color: #111d5e;
+}
+h3{
+  color: #111d5e;
+}
+img:hover{
+  border-radius: 100%;
+}
+.top-container{
+  background-color: #fbd46d;
+}
+.middle-container{
+  background-color: #cdd0cb;
+  margin-top: 5px;
+  padding: 10px;
+}
+.bottom-container{
+  background-color: #fbd46d;
+  margin-top: 5px;
+  padding: 10px;
+  width: 500px;
+}
+.last-container{
+  background-color: #fbd46d;
+  position: relative;
+  margin-top: 5px;
+  padding: 10px;
+  width: 250px;
+  left: 550px;
+  text-align: center;
+  padding: 50px;
+  bottom: 225px;
+}
+.contact-body{
+  background-color: #cdd0cb;
+}
